@@ -624,3 +624,6 @@ input.ng-invalid.ng-touched {
 input.ng-valid.ng-touched{
   border: 1px solid #2ecc71;
 }
+
+.ng-invalid .btn{background:grey; }
+.error{color:red; margin-bottom: 10px;}
